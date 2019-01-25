@@ -1,0 +1,21 @@
+{
+  "name": "jsonata_test",
+  "version": "0.0.0",
+  "description": "Jsonata_Test",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  },
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "dotenv": "^6.2.0",
+    "express": "^4.16.4",
+    "fs": "0.0.1-security",
+    "jsonata": "^1.6.4",
+    "log-timestamp": "^0.2.1",
+    "minimist": "^1.2.0",
+    "readline-sync": "^1.4.9",
+    "string": "^3.3.3",
+    "swagger-node-express": "^2.1.3"
+  }
+}
