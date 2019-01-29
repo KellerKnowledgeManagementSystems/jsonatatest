@@ -12,6 +12,8 @@ var express = require('express') , http = require('http')
   , util = require('util');
 var app = express();
 
+var bs = 3;
+
   
 
 
