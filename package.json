@@ -2,7 +2,7 @@
   "name": "jsonata_test",
   "version": "0.0.0",
   "description": "Jsonata_Test",
-  "main": "app.js",
+  "main": "jsonataserver2.js",
   "author": {
     "name": ""
   },
@@ -23,7 +23,7 @@
     "npm": "*"
   },
   "scripts": {
-    "start": "node app.js",
+    "start": "node jsonataserver2.js",
     "test": "IP=0.0.0.0 PORT=8080 mocha --timeout 5000 "
   },
   "repository": {
