@@ -21,9 +21,9 @@ console.log('PORT Val: ' + port);
  
 
 //pull initial json and jsonata from file(as example)
-var inputJson =   fs.readFileSync('gordonjson.txt', 'utf8');
+var inputJson =   fs.readFileSync('sample5.json', 'utf8');
 var parsedJson =  JSON.parse(inputJson);
-var parsedJsonata =   fs.readFileSync('gordonjsonata.txt', 'utf8');
+var parsedJsonata =   fs.readFileSync('Transform5.txt', 'utf8');
   
 
 //set body-parser
