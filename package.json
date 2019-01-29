@@ -23,7 +23,7 @@
     "npm": "*"
   },
   "scripts": {
-    "start": "node server.js",
+    "start": "node app.js",
     "test": "IP=0.0.0.0 PORT=8080 mocha --timeout 5000 "
   },
   "repository": {
