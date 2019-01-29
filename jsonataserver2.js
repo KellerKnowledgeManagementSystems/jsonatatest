@@ -17,7 +17,7 @@ var bs = 3;
   
 
 
-const port = process.env.PORT || 9081;  //do not pass PORT in '.env' file... must be from cmd line.
+const port = process.env.PORT || 8080;  //do not pass PORT in '.env' file... must be from cmd line.
 const HOST = '0.0.0.0';
 console.log('PORT Val: ' + port);
  
